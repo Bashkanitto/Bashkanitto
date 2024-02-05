@@ -27,5 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bashkanitto&show_icons=true&locale=en" alt="bashkanitto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bashkanitto&" alt="bashkanitto" /></p>
-Developed in India 🇮🇳
-Buy Me A Coffee
