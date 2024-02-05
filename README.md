@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm <a href='https://instagram.com/bashkanitto'>Aidyn</a></h1>
 <h3 align="center">A passionate frontend developer from Taraz, Kazakhstan</h3>
 
