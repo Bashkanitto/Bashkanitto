@@ -1,13 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm <a href='https://instagram.com/bashkanitto'>Aidyn</a></h1>
-<h3 align="center">A passionate frontend developer from Taraz, Kazakhstan</h3>
+<h3 align="center">Web developer with a spark and zest for new experiences.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bashkanitto&label=Profile%20views&color=0e75b6&style=flat" alt="bashkanitto" /> </p>
 
-- 🔭 I’m currently working on [Smavy coop](https://smavy-coop.vercel.app/)
-
-- 🌱 I’m currently learning **NextJs**
+- 🔭 I’m currently working on [Smavy coop](https://smavy-coop.vercel.app/)**NextJs**
 
 - 📫 How to reach me **aidyn.meiramkhanuly@gmail.com**
 
