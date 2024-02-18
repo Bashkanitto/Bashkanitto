@@ -7,7 +7,7 @@
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
-- :seedling: Завершил курсы по веб-разработке <a href='https://www.codecademy.com/'>CodeAcademy</>, <a href='[https://www.codecademy.com/](https://smavy.vercel.app/)'>Smavy</>, <a href='[https://www.codecademy.com](https://www.udemy.com/course/javascript_full/learn/lecture/30927186#overview)'>Udemy</>!
+- :seedling: Завершил курсы по веб-разработке <a href='https://www.codecademy.com/'>CodeAcademy</a>, <a href='[https://www.codecademy.com/](https://smavy.vercel.app/)'>Smavy</a>, <a href='[https://www.codecademy.com](https://www.udemy.com/course/javascript_full/learn/lecture/30927186#overview)'>Udemy</a>!
 
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
 
