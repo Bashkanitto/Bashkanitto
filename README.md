@@ -16,7 +16,7 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/" target="_blank">
+    <a href="https://www.linkedin.com/in/aidyn-meiramkhanuly-1b900626a/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/tehnomaniak07" target="_blank">
@@ -61,8 +61,7 @@
 
 ### 💻 LeetCode:
 
-![codewars](https://www.codewars.com/users/Bashkanitto/badges/large)
-
+[![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%bashkanitto&logo=leetcode&logoColor=yellow)](https://leetcode.com/cascandaliato/)
 ### ⚙️ GitHub статистика:
 
 <table>
@@ -73,5 +72,5 @@
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bashkanitto)
+<a href="https://visitorbadge.io/status?path=bashkanitto"><img src="https://api.visitorbadge.io/api/visitors?path=bashkanitto&label=Visitors&labelColor=%23697689&countColor=%2337d67a" /></a>
 
