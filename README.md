@@ -11,19 +11,8 @@
 
 
 - :zap: Являюсь действующим Front-end React разработчиком в компании <a href='https://smavy.vercel.app/'>Smavy</a> .
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-bashkanitto-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bashkanitto) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aidyn.meiramkhanuly@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logoColor=white)](https://www.linkedin.com/in/aidyn-meiramkhanuly-1b900626a/) 
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-bashkanitto-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bashkanitto) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aidyn.meiramkhanuly@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logoColor=white)](https://www.linkedin.com/in/aidyn-meiramkhanuly-1b900626a/)   
 
-
-
-  <div id="badges">
-  
-    <a href="https://t.me/bashkanitto" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href='https://api.whatsapp.com/send/?phone=77055869948&text&type=phone_number&app_absent=0'><img src="[ci-whatsapp-stacked ci-md](https://github.com/Bashkanitto/Bashkanitto/assets/86559848/65978eeb-e635-49b6-9144-874e87a7ca39)" /></a>
-   
-
-</div>
 
 ---
 
@@ -60,18 +49,7 @@
 
 --- -->
 
-### 💻 LeetCode:
-
-[![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%bashkanitto&logo=leetcode&logoColor=yellow)](https://leetcode.com/cascandaliato/)
 ### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bashkanitto&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
 
 <a href="https://visitorbadge.io/status?path=bashkanitto"><img src="https://api.visitorbadge.io/api/visitors?path=bashkanitto&label=Visitors&labelColor=%23697689&countColor=%2337d67a" /></a>
 
