@@ -7,10 +7,6 @@
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
- <a href='https://www.codecademy.com/'>CodeAcademy</a>,
- <a href='https://smavy.vercel.app/'>Smavy</a>,
- <a href='https://www.udemy.com/course/javascript_full/learn/lecture/30927186#overview'>Udemy</a>!
-
 [![Telegram Badge](https://img.shields.io/badge/-bashkanitto-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bashkanitto) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aidyn.meiramkhanuly@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logoColor=white)](https://www.linkedin.com/in/aidynn/)   
 
 
