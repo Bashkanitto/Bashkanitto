@@ -3,13 +3,6 @@
 <h3 align="center">Web developer with a spark and zest for new experiences.</h3>
 
 
-<p align="center">
- <img width="600" src="github-snake.svg" alt="snake"/>
-</p>
-
-[![Telegram Badge](https://img.shields.io/badge/-bashkanitto-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bashkanitto) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aidyn.meiramkhanuly@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logoColor=white)](https://www.linkedin.com/in/aidynn/)   
-
-
 ---
 
 ### 💻 Технологии:
